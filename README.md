@@ -15,7 +15,7 @@ git clone https://github.com/<username>/<repo_name>.git
 - Go project path
 
 ```sh
-cd django-aiogram-template
+cd <repo_name>
 ```
 
 ## 2. Create virtualenv and activate
